@@ -4,3 +4,7 @@ nnet_hub_Debug.jlink
 nnet_hub_Release.jlink
 secure_bootloader_ble_s132_pca10040_Release.jlink
 source/dfu_public_key.c
+key
+1.hex
+upd.zip
+secure_bootloader_ble_s132_pca10040.emSession

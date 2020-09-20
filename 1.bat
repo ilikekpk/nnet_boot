@@ -1,0 +1,2 @@
+nrfutil pkg generate --application E:\NRF5\nRF5_SDK_15.2.0_9412b96\examples\ble_peripheral\nnet_node\Output\Debug\Exe\nnet_node.hex --application-version 1 --hw-version 1 --sd-req 0xAF --key-file key upd.zip
+pause
